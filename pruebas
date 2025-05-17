@@ -1,0 +1,14 @@
+
+javac com/techlab/excepciones/*.java
+
+javac  com/techlab/productos/*.java
+
+javac  com/techlab/pedidos/*.java
+
+javac  com/techlab/app/*.java
+
+---------------------------------------
+
+prueba de code - java com.techlab.app.Main
+
+---------------------------------------
